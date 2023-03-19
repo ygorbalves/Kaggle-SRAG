@@ -6,7 +6,7 @@ O Ministério da Saúde (MS), por meio da Secretaria de Vigilância em Saúde (S
 
 O objetivo da competição é de criar modelos para predizer qual o agente causador da síndrome respiratória aguda grave com base nos dados e sintomas dos pacientes.
 
-**Table of contents** 
+**Table of contents of Notebook 'Srag-Project.ipynb'** 
 - Get the Data and Preparing Features 
     - Classes Distribution  
     - High Null Values Columns   
